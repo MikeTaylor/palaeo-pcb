@@ -4,5 +4,5 @@ This directory contains 3D models of the pneumatic first caudal of the camarasau
 * `CamTail1-one-tenth.ply` -- the result of rendering `CamTail1.stl` down to one tenth the number of faces in MeshLab. This is small enough to keep around, but it's a very poor model: we think because  so many of the faces are wasted on representing invisible internal structure.
 * _Still to do_ -- a decent downscaled model.
 
-See also: the red-cyan 3D anaglyph that was rendered from snapshots of the high-quality module taken in MeshLab. It's Figure A in [../../../figures] the `figures` area.
+See also: the red-cyan 3D anaglyph that was rendered from snapshots of the high-quality module taken in MeshLab. It's Figure A in [../../../figures](the `figures` area).
 
